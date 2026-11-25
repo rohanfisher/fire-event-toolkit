@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# data and outputs
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sdat
+*.sgrd
+output/
+events/
+working/
+data/

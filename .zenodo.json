@@ -1,0 +1,29 @@
+{
+  "title": "Fire Event Toolkit: fire event delineation from burnt area mapping and satellite hotspots",
+  "description": "Python implementation of the fire event delineation (FED) method described in Fisher et al. (2026), International Journal of Wildland Fire 35(10), WF26071. The toolkit combines high-resolution burnt area mapping with high temporal resolution hotspot data to produce day-of-burn attributed mapping (SAGA GIS Multilevel B-Spline interpolation clipped to monthly burnt areas), then delineates individual fire events by region growing and reports fire size distribution statistics.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Fisher, Rohan"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1071/WF26071",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ],
+  "keywords": [
+    "fire",
+    "burnt area",
+    "hotspots",
+    "day of burning",
+    "fire events",
+    "fire size distribution",
+    "savanna",
+    "remote sensing"
+  ]
+}

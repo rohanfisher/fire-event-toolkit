@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper (preferred citation) and/or the software itself."
+title: "Fire Event Toolkit: fire event delineation from burnt area mapping and satellite hotspots"
+type: software
+authors:
+  - family-names: "Fisher"
+    given-names: "Rohan"
+version: 1.0.0
+date-released: 2026-11-25
+license: MIT
+repository-code: "https://github.com/USERNAME/fire-event-toolkit"
+keywords:
+  - fire
+  - burnt area
+  - hotspots
+  - day of burning
+  - fire events
+  - fire size distribution
+  - savanna
+  - remote sensing
+preferred-citation:
+  type: article
+  title: "A method for characterising fire events in high fire frequency landscapes: case study application to North Kimberley fire regimes, Western Australia"
+  authors:
+    - family-names: "Fisher"
+      given-names: "Rohan"
+    - family-names: "Mollick"
+      given-names: "Porni"
+    - family-names: "Woolley"
+      given-names: "Leigh-Ann"
+    - family-names: "Vigilante"
+      given-names: "Tom"
+    - family-names: "Russ"
+      given-names: "Luke"
+    - name: "Wunambal Gaambera Aboriginal Corporation"
+  journal: "International Journal of Wildland Fire"
+  publisher:
+    name: "CSIRO Publishing"
+  volume: 35
+  issue: 10
+  start: "WF26071"
+  year: 2026
+  month: 10
+  doi: "10.1071/WF26071"
